@@ -52,3 +52,8 @@
 - Versatility – learning once enhances you everywhere
 - Community – PowerShell has one of the most connected and welcoming communities in tech. Plugging into it will only help you become a better admin/engineer.
 - Relevant – PowerShell continues to grow and be adopted. If you’re not learning it, you won’t remain competitive in the job market.
+
+## **Things I want to know more about**
+- What other commonly used tools do Hackers utilize to inject code into memory?
+- Is there some way that code injected into memory can be tracked?
+- Does the macOS have a similar tool?
